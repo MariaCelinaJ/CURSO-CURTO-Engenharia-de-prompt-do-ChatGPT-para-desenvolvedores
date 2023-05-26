@@ -1,4 +1,4 @@
-# CURSO-CURTO-Engenharia-de-prompt-do-ChatGPT-para-desenvolvedores
+# Engenharia-de-prompt-do-ChatGPT-para-desenvolvedores
 
 Curso criado pela empresa de tecnologia DeepLearning.Al, para aprender a usar um modelo de linguagem grande (LLM) e criar novos
 aplicativos.
