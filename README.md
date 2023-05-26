@@ -8,4 +8,4 @@ A DeepLearning.AI, uma renomada empresa de tecnologia educacional, apresenta o C
 A missão da empresa é capacitar a força de trabalho global, fornecendo uma educação de nível mundial, treinamento prático e uma comunidade colaborativa para construir um futuro impulsionado pela inteligência artificial. Através do curso, o aluno estará preparado para enfrentar os desafios do mundo da IA e explorar todo o potencial dos LLMs, permitindo criar aplicativos e soluções inovadoras.
 
 Curso ministrado por Isa Fulford (OpenAI) e Andrew Ng (DeepLearning.AI).
-Uma oportunidade de aprendizado e desenvolvimento profissional com especialistas da área, permitindo a participação da comunidade de profissionais capacitados da DeepLearning.AI, construindo um futuro promissor baseado na IA. 
+Uma oportunidade de aprendizado e desenvolvimento profissional com especialistas da área, permitindo a participação da comunidade de profissionais capacitados da DeepLearning.AI e a possibilidade de construir um futuro promissor baseado na IA. 
